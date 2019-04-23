@@ -1,7 +1,6 @@
 ---
 title: Keeping people informed about important changes
 date: 2019-04-23 14:55:31 +0000
-draft: true
 
 ---
 This website is how we will keep you up to date. We will be giving you updates on:
