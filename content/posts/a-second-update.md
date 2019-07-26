@@ -1,6 +1,5 @@
 +++
 date = "2019-07-24T23:00:00+00:00"
-draft = true
 title = "How can my faith have a positive impact on day-to-day living in the 21st C?"
 
 +++
