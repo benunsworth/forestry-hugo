@@ -9,4 +9,5 @@ fields:
   name: date
   label: date
 pages:
+- content/posts/how-does-your-faith-affect-how-you-look-after-the-world.md
 - content/posts/a-second-update.md
